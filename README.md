@@ -19,8 +19,19 @@
 ### 1단계 Selenium
 - 요약
 
+기획자의 단순 서칭 작업을 자동하는 하는 의도로 시작하였으며, 데이터 수집은 서비스의 주목적이 아니기 때문에, 성능보다는 데이터 전달에 더 집중을 했다. 때문에 가장 간편하고, 빠르게 접근할 수 있는 selenium을 통해 웹페이지의 정보를 파싱하여 저장했다.
+
 - 주요기능표
+
+|명칭|설명|
+|:-|:-|
+|로그인|많은 게시물을 열람하기 위해서는 로그인이필요하며, selenium을 통해 로그인 세션을 유지한다.|
+|기본정보|bio, link, 스토리 그리고 팔로잉 팔로워와 같은 기본정보를 찾아서 저장한다.|
+|게시글정보|게시물을 하나하나식 열람하여, 작성된 글과 사진 그리고 좋아요 댓글과 같은 정보를 저장한다.|
+
 - 결과물
+
+<img src="https://raw.githubusercontent.com/Jin5823/Git-Test/master/src/img_1.png" />
 
 [상세페이지](https://github.com/Jin5823/instagram_crawling/blob/master/instagram_crawling_selenium)
 
