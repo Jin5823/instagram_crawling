@@ -1,5 +1,5 @@
-# 인스타그램 인플루언서 정보 크롤링
-> Instagram crawling, Instagram爬虫
+# 인스타그램 인플루언서 정보 크롤링(스크래핑)
+> Instagram crawling(scraping), Instagram爬虫
 
 ## 요약
 - 배경과 가치
@@ -10,19 +10,37 @@
 
 - 목적과 목표
 
+크롤링 작업의 주목적은 조사 업무의 편리성을 제공하는 것이다. 분석과 조사를 하는 기획자들은 인플루언서 목록을 받으면, 조사를 위해 아이디를 일일이 웹사이트에 입력하고 게시물 하나하나를 클릭하여 열람하고, 스크롤을 하는 불편함을 갖고 있다. 기획에 몰두하기 보단 단순하고 불필요한 작업으로 집중력과 창의력을 잃을 수 있다. 
 
-
+때문에 기획자가 원하는 인스타그램 데이터 정보를 빠르게 전달 할 수 있어야한다. 핵심이 되는 정보로는 사진, bio, 게시글, 댓글 등이 있다. 기획자가 요청한 리스트를 받으면 작업을 거쳐 정보를 전달한다. 또한 데이터 분석에도 도움을 줄 수 있다. 기획자는 데이터를 기반으로 가설을 세우고, 해당 가설을 데이터를 통해 입증을 한다. 요청하는 특징을 데이터 분석을 통해 찾는다.
 
 
 ## 개발단계의 변화
-### 1단계
+### 1단계 Selenium
 - 요약
+
 - 주요기능표
 - 결과물
 
 [상세페이지](https://github.com/Jin5823/instagram_crawling/blob/master/instagram_crawling_selenium)
 
-### 2단계
-### 3단계
+### 2단계 Api
+- 요약
+
+- 주요기능표
+- 결과물
+
+[상세페이지](https://github.com/Jin5823/instagram_crawling/blob/master/instagram_crawling_selenium)
+
+
+### 3단계 Graphql(?) Api
+- 요약
+
+- 주요기능표
+- 결과물
+
+[상세페이지](https://github.com/Jin5823/instagram_crawling/blob/master/instagram_crawling_selenium)
+
+
 
 ## 결론 및 토론
