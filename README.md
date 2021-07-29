@@ -74,6 +74,6 @@
 
 ## 결론 및 토론
 
-수백만 개의 인스타그램 계정 중에 인플루언서를 찾아내고, 그중에 기획자의 의도에 적합한 그리고 서비스에 적합한 인플루언서를 찾기 위해서 데이터를 크롤링하고 분석하는 작업은 필수적이라 느꼈다. 
+수백만 개의 [인스타그램 계정](https://github.com/Jin5823/instagram_in_store) 중에 인플루언서를 찾아내고, 그중에 기획자의 의도에 적합한 그리고 서비스에 적합한 인플루언서를 찾기 위해서 데이터를 크롤링하고 분석하는 작업은 필수적이라 느꼈다. 
 
 분석 작업으로 인플루언서의 팔로워중 인플루언서가 몇 명 있는지를 통해 [인플루언서간의 영향력점수](https://github.com/Jin5823/instagram_crawling/tree/master/instagram_crawling_api)를 매기기도 하고, 인스타그램 계정의 게시글과 유저의 정보를 토대로 [한국계정](https://github.com/Jin5823/instagram_crawling/tree/master/instagram_crawling_api)인지 확인하면서 인플루언서의 팔로워 중에 한국계정이 몇 있는지도 확인했다. 또한 [인플루언서의 카테고리](https://github.com/Jin5823/instagram_crawling/tree/master/instagram_classification)를 알고리즘을 통해 자동으로 나누어 기획자의 의도에 적합한 인플루언서 정보를 얻을 수 있었다. 데이터 수집은 서비스의 주목적이 아니기 때문에, 성능보다는 데이터 전달과 분석에 더 집중하여 시간을 절약할 수 있었다. 
